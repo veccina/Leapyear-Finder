@@ -13,9 +13,9 @@ public class Main {
             }
         }
         if (leapYear){
-            System.out.println(year + "is a leapyear !! ");
+            System.out.println(year + " is a leapyear !! ");
         }else {
-            System.out.println(year + "is not a leapyear. ");
+            System.out.println(year + " is not a leapyear. ");
         }
 
         }
